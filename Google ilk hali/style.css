@@ -1,0 +1,69 @@
+body {
+    font-family: Verdana, monospace, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: justify;
+    min-height: 800px;
+    margin-right: 50%;
+}
+.baslik img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left: -200px;
+    margin-top: -150px;
+}
+.arama-butonu {
+    width: 900px;
+    height: 80px;
+    padding: 5px;
+    background-color: rgb(226, 224, 224);
+    position:relative;
+    top: 5%;
+    left: 50%;
+    margin-top: 450px;
+    justify-content: center;
+    margin-bottom: 10px;
+   
+
+}
+
+.buton {
+    text-align: center;
+    margin-left:10px;
+    margin-bottom: 10px;
+
+}
+
+.yesil-alan {
+    width: 350px;
+    height: 130px;
+    background-color: rgb(32, 216, 216);
+    float: left;
+    margin-right: 5px;
+    
+}
+
+.yesil-alan2 {
+    width: 150px;
+    height: 130px;
+    background-color: aqua;
+    margin:auto;
+    float: left;
+    margin-right: 5px;
+    
+}
+
+.yesil-alan3 {
+    width: 350px;
+    height: 130px;
+    background-color:rgb(32, 216, 216);
+    float: left;
+    margin-right: 5px;
+}
+
+h7 {
+    margin-left: 350px;
+}
+
+
